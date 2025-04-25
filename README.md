@@ -63,8 +63,10 @@ python main.py
 
 ---
 
-##🌌 Coming Soon
+## 🌌 Coming Soon
 
--**better assets/animations**
--**Power-ups (lifesteal, shield bubble)**
--**Player skins**
+- **better assets/animations**
+
+- **Power-ups (lifesteal, shield bubble)**
+
+- **Player skins**
